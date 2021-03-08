@@ -1,0 +1,5 @@
+{
+    "version":"1.2.2",
+    "devnotes":"Command to check when its safe to remove bots",
+    "updates":"• A new command has been added: **.check** you can use this to see when its safe to remove bots from your server, please keep in mind this will only show newly added bots from Midday BST (Now)"
+}
